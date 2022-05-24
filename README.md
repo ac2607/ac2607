@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ac2607
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Web Developer
+- 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on some development projects
 - 📫 How to reach me : 📧 ac26072001@gmail.com 
 
