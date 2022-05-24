@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ac2607
+- 👋 Hi, I’m Arjun Choudhary
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on some development projects
