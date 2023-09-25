@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arjun Choudhary
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Web Developement
-- 💞️ I’m looking to collaborate on some development projects
+- 👀 I’m interested in DevSecOps
+- 🌱 I’m currently learning about Computer Networks
 - 📫 How to reach me : 📧 choudharyarjun2607@gmail.com
 
 <!---
